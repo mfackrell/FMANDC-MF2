@@ -1,0 +1,9 @@
+
+# www.robotstxt.org
+
+# Allow all crawlers
+User-agent: *
+Allow: /
+
+# XML Sitemap
+Sitemap: https://fmandc.com/sitemap.xml

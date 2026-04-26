@@ -1,0 +1,3 @@
+/intake/* /intake/index.html 200
+/portal/* /portal/index.html 200
+/.netlify/functions/* /.netlify/functions/:splat 200

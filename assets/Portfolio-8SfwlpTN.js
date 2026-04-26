@@ -1,0 +1,7 @@
+import{c as e,j as a}from"./index-BR7Ky3SI.js";import"./vendor-DE66H6Nl.js";
+/**
+ * @license lucide-react v0.462.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const s=e("ExternalLink",[["path",{d:"M15 3h6v6",key:"1q9fwt"}],["path",{d:"M10 14 21 3",key:"gplh6r"}],["path",{d:"M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6",key:"a6xqqp"}]]),o=()=>a.jsx("section",{id:"portfolio",className:"py-24 bg-white",children:a.jsxs("div",{className:"container mx-auto px-4 sm:px-6 lg:px-8",children:[a.jsxs("div",{className:"mb-16",children:[a.jsx("h2",{className:"section-heading",children:"Some of my projects..."}),a.jsx("p",{className:"section-subheading",children:"You can browse through some of my recent jobs and see how I approach many unique challenges."})]}),a.jsxs("div",{className:"flex flex-col items-center justify-center text-center max-w-2xl mx-auto",children:[a.jsx("p",{className:"text-lg mb-6",children:"You can view some of my work on Facebook"}),a.jsxs("a",{href:"https://www.facebook.com/FackrellMasonryAndConstruction/",target:"_blank",rel:"noopener noreferrer",className:"inline-flex items-center px-6 py-3 text-base font-medium bg-primary text-white rounded-md hover:bg-primary/90 transition-all duration-300","aria-label":"Visit our Facebook page to see more project photos",children:["Visit Facebook Page ",a.jsx(s,{className:"ml-2 h-4 w-4"})]})]})]})});export{o as default};
