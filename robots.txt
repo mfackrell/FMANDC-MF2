@@ -1,9 +1,28 @@
-
-# www.robotstxt.org
-
-# Allow all crawlers
 User-agent: *
 Allow: /
 
-# XML Sitemap
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
 Sitemap: https://fmandc.com/sitemap.xml
